@@ -1,4 +1,4 @@
-# MultiPDF Chat App
+# Chat-with-Multiple-PDFs
 
 ## Introduction
 ------------
